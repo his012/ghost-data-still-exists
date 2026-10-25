@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# Challenge participant dataset and archives
+dataset/
+*.zip
+# Local trace credentials
+.codex/
+.claude/
